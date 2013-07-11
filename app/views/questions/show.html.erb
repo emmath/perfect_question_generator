@@ -1,0 +1,26 @@
+<p id="notice"><%= notice %></p>
+
+<p>Burning question? Slow down and walk through this app to be sure you don't already know the answer:</p>
+<p>
+  <b>Topic:</b>
+  <%= @question.topic %>
+</p>
+
+<p>
+  <b>Preliminary Question:</b>
+  <%= @question.prelim_question %>
+</p>
+
+<p>
+  <b>Hypothesis:</b>
+  <%= @question.hypothesis %>
+</p>
+
+<p>
+  <b>Refined Question:</b>
+  <%= @question.refined_question %>
+</p>
+
+<p>is it still a good question? then go ahead and press the button!</p>
+<%= link_to 'Edit', edit_question_path(@question) %> |
+<%= link_to 'Back', questions_path %>

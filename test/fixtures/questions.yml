@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  topic: MyString
+  prelim_question: MyString
+  hypothesis: MyString
+  refined_question: MyString
+
+two:
+  topic: MyString
+  prelim_question: MyString
+  hypothesis: MyString
+  refined_question: MyString
