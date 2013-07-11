@@ -4,8 +4,12 @@ At some point or another, we all ask a stupid question.
 
 This app saves you from embarrasment by giving you the chance to think it through! 
 
+
 1) Enter the topic of your question
+
 2) Enter the preliminary question--the one that first occured to you
+
 3) Take a second and try to answer that question your self
+
 4) Still feel like it is a good question? Ask away and save it for future reference!
 
